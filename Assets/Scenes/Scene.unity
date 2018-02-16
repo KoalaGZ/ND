@@ -140,10 +140,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 116950989}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 518e61ee0dc5b41478b90238308b5e9e, type: 3}
+  m_Script: {fileID: 11500000, guid: b9a714d0dba1d804f9c4c46f059f9d09, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movespeed: 0
+  inputDelay: 0.1
+  forwardVel: 12
+  rotateVel: 100
 --- !u!54 &116950993
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7715,7 +7717,7 @@ Transform:
   m_GameObject: {fileID: 1905057129}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0.4, z: 0}
-  m_LocalScale: {x: 10, y: 1, z: 10}
+  m_LocalScale: {x: 100, y: 1, z: 100}
   m_Children: []
   m_Father: {fileID: 1770071236}
   m_RootOrder: 0
