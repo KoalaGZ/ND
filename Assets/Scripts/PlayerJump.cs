@@ -41,7 +41,7 @@ public class PlayerJump : MonoBehaviour {
                 if(jumpPressure > 0f)
                 {
                     jumpPressure = jumpPressure + minjump;
-                    rbody.velocity = new Vector3(jumpPressure/10f, jumpPressure, 0f);
+                    rbody.velocity = new Vector3(0f, jumpPressure, 0f);
                     jumpPressure = 0f;
                     onGround = false;
                 }
