@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 63364680f03ba9544a2a19f32c60b0ee
+timeCreated: 1518821733
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Eye-1.L
+    100002: Eye-1.R
+    100004: Eye-2.L
+    100006: Eye-2.R
+    100008: Eye-3.L
+    100010: Eye-3.R
+    100012: Eye-4.L
+    100014: Eye-4.R
+    100016: Eye-5.L
+    100018: Eye-5.R
+    100020: Eye-6.L
+    100022: Eye-6.L_end
+    100024: Eye-6.R
+    100026: Eye-6.R_end
+    100028: f_middle.01.L
+    100030: f_middle.01.R
+    100032: f_middle.02.L
+    100034: f_middle.02.L_end
+    100036: f_middle.02.R
+    100038: f_middle.02.R_end
+    100040: face
+    100042: foot.L
+    100044: foot.R
+    100046: forearm.L
+    100048: forearm.R
+    100050: hand.L
+    100052: hand.R
+    100054: headband-1.L
+    100056: headband-1.R
+    100058: headband-2.L
+    100060: headband-2.R
+    100062: headband-3.L
+    100064: headband-3.L_end
+    100066: headband-3.R
+    100068: headband-3.R_end
+    100070: heel.02.L
+    100072: heel.02.L_end
+    100074: heel.02.R
+    100076: heel.02.R_end
+    100078: metarig + swords.001
+    100080: ninja-chibi_1.001
+    100082: //RootNode
+    100084: palm.02.L
+    100086: palm.02.R
+    100088: Root
+    100090: shin.L
+    100092: shin.R
+    100094: shoulder.L
+    100096: shoulder.R
+    100098: spine.001
+    100100: spine.002
+    100102: spine.003
+    100104: spine.004
+    100106: spine.005
+    100108: sword.L
+    100110: sword.L_end
+    100112: sword.R
+    100114: sword.R_end
+    100116: thigh.L
+    100118: thigh.R
+    100120: thumb.01.L
+    100122: thumb.01.L.002
+    100124: thumb.02.L
+    100126: thumb.02.L.002
+    100128: thumb.02.L.002_end
+    100130: thumb.02.L_end
+    100132: toe.L
+    100134: toe.L_end
+    100136: toe.R
+    100138: toe.R_end
+    100140: upper_arm.L
+    100142: upper_arm.R
+    400000: Eye-1.L
+    400002: Eye-1.R
+    400004: Eye-2.L
+    400006: Eye-2.R
+    400008: Eye-3.L
+    400010: Eye-3.R
+    400012: Eye-4.L
+    400014: Eye-4.R
+    400016: Eye-5.L
+    400018: Eye-5.R
+    400020: Eye-6.L
+    400022: Eye-6.L_end
+    400024: Eye-6.R
+    400026: Eye-6.R_end
+    400028: f_middle.01.L
+    400030: f_middle.01.R
+    400032: f_middle.02.L
+    400034: f_middle.02.L_end
+    400036: f_middle.02.R
+    400038: f_middle.02.R_end
+    400040: face
+    400042: foot.L
+    400044: foot.R
+    400046: forearm.L
+    400048: forearm.R
+    400050: hand.L
+    400052: hand.R
+    400054: headband-1.L
+    400056: headband-1.R
+    400058: headband-2.L
+    400060: headband-2.R
+    400062: headband-3.L
+    400064: headband-3.L_end
+    400066: headband-3.R
+    400068: headband-3.R_end
+    400070: heel.02.L
+    400072: heel.02.L_end
+    400074: heel.02.R
+    400076: heel.02.R_end
+    400078: metarig + swords.001
+    400080: ninja-chibi_1.001
+    400082: //RootNode
+    400084: palm.02.L
+    400086: palm.02.R
+    400088: Root
+    400090: shin.L
+    400092: shin.R
+    400094: shoulder.L
+    400096: shoulder.R
+    400098: spine.001
+    400100: spine.002
+    400102: spine.003
+    400104: spine.004
+    400106: spine.005
+    400108: sword.L
+    400110: sword.L_end
+    400112: sword.R
+    400114: sword.R_end
+    400116: thigh.L
+    400118: thigh.R
+    400120: thumb.01.L
+    400122: thumb.01.L.002
+    400124: thumb.02.L
+    400126: thumb.02.L.002
+    400128: thumb.02.L.002_end
+    400130: thumb.02.L_end
+    400132: toe.L
+    400134: toe.L_end
+    400136: toe.R
+    400138: toe.R_end
+    400140: upper_arm.L
+    400142: upper_arm.R
+    2100000: color-palette
+    4300000: ninja-chibi_1.001
+    7400000: metarig + swords.001|metarig + swords.001Action.001
+    9500000: //RootNode
+    13700000: ninja-chibi_1.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: metarig + swords.001|metarig + swords.001Action.001
+      takeName: metarig + swords.001|metarig + swords.001Action.001
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
