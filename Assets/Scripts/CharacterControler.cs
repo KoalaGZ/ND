@@ -8,7 +8,7 @@ public class CharacterControler : MonoBehaviour {
     public float forwardVel = 12;
     public float rotateVel = 100;
     public float distToGrounded = 0.25f;
-    public float jumpVel = 8f;
+    public float jumpVel = 100f;
     public LayerMask ground;
 
     //physic
