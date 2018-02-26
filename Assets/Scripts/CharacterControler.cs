@@ -26,6 +26,7 @@ public class CharacterControler : MonoBehaviour {
     }
     bool Grounded()
     {
+		Debug.DrawLine (transform.position, transform.position + Vector3.down);
         return Physics.Raycast(transform.position, Vector3.down, distToGrounded, ground);
     }
     void Start()
@@ -63,7 +64,7 @@ public class CharacterControler : MonoBehaviour {
             velocity.z = forwardVel * forwardInput;
         }
         else
-            velocity = Vector3.zero;
+			velocity = new Vector3(0f, velocity.y, 0f);
     }
     void Trun()
     {
@@ -86,6 +87,7 @@ public class CharacterControler : MonoBehaviour {
         else //not grounded = falling
         {
             //decrease velocity.y
+			print("falling");
             velocity.y -= downAccel;
         }
     }
